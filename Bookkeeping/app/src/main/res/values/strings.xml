@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Bookkeeping</string>
+    <string name="editone">記一筆...</string>
+    <string name="month_out">本月支出</string>
+    <string name="out">支出</string>
+    <string name="month_in">本月收入</string>
+    <string name="in">收入</string>
+    <string name="budget">總剩餘</string>
+    <string name="set_budget">設定預算</string>
+    <string name="see_excel">圖表分析</string>
+    <string name="add_remark">新增備註</string>
+    <string name="remark">備註</string>
+    <string name="ensure">確定</string>
+    <string name="cancel">取消</string>
+    <string name="about">關於</string>
+    <string name="setting">設定</string>
+    <string name="history_record">帳單紀錄</string>
+    <string name="account_info">帳單詳情</string>
+    <string name="please_input_time">請輸入時間</string>
+    <string name="please_search_info">請輸入搜索訊息</string>
+    <string name="date_empty">未查到相關訊息</string>
+    <string name="chart_info">帳單詳情</string>
+
+    <string name="about_appinfo"></string>
+    <string name="about_version"></string>
+    <string name="about_1"></string>
+    <string name="about_app"></string>
+    <string name="about_balabala">透過記帳能讓我們清楚的知道自己一天花了多少錢、都花在甚麼地方，很多時候會覺得金額不高，花的錢沒有很多，但是全部累積起來就會發現其實也是一筆不小的金額，因此我們可以利用記帳來檢視金錢的流動，並加以改善。
+傳統記帳是使用紙本，但是紙本不僅浪費資源、不環保，還不方便，所以我們想利用androidvu系統做出簡單明瞭的記帳APP，讓我們隨時能記帳。
+</string>
+    <string name="about_developer"></string>
+    <string name="about_me"></string>
+    <string name="about_loc"></string>
+    <string name="about_email"></string>
+    <string name="about_email2"></string>
+    <string name="about_code"></string>
+    <string name="about_codeinfo"></string>
+    <string name="about_B"></string>
+    <string name="about_B2"></string>
+
+    <string name="history_info">本月帳單紀錄</string>
+    <string name="clear_all">清空所有紀錄</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="not_data">暫無相關數據</string>
+</resources>
