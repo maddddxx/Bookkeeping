@@ -1,7 +1,6 @@
 # Bookkeeping
 記帳app
-
-![image](https://github.com/maddddxx/Bookkeeping/assets/103488412/90befed3-3350-4981-9dce-3c1f152588ac)
+![286562982-90befed3-3350-4981-9dce-3c1f152588ac](https://github.com/maddddxx/Bookkeeping/assets/103488412/edaa3718-84af-4cc9-8d7c-0684cd81203c)
 
 ![image](https://github.com/maddddxx/Bookkeeping/assets/103488412/56a52991-e449-474e-a15e-fe296330f892)
 
